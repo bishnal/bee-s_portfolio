@@ -36,14 +36,14 @@
     - *Your task: Let’s say you see some duplicate rows in the data. How will you display duplicates from the table?*
    
 ## **Case Study 2 (Investigating metric spike)**
-### ***The structure of the table with the definition of each column that you must work on is present in the project image***
+#### ***The structure of the table with the definition of each column that you must work on is present in the project image***
 
 ## Table-1: users
-### This table includes one row per user, with descriptive information about that user’s account.
+This table includes one row per user, with descriptive information about that user’s account.
 ## Table-2: events
-### This table includes one row per event, where an event is an action that a user has taken. These events include login events, messaging events, search events, events logged as users progress through a signup funnel, events around received emails.
+This table includes one row per event, where an event is an action that a user has taken. These events include login events, messaging events, search events, events logged as users progress through a signup funnel, events around received emails.
 ## Table-3: email_events
-### This table contains events specific to the sending of emails. It is similar in structure to the events table above.
+ This table contains events specific to the sending of emails. It is similar in structure to the events table above.
 
 ### Answer the Following
 1. User Engagement: To measure the activeness of a user. Measuring if the user finds quality in a product/service.
